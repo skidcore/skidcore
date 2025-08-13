@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name: **Pierce** / **не совершай преступления, преступления - это плохо, целую**
+- Name: **Pierce** / **не совершай преступления**
 
 - Residing in: **Somewhere in Pennsylvania**
 
@@ -28,8 +28,8 @@
 <br/>
 <br/>
   
-- 📗 [***elliottophellia/proxylist***](https://github.com/elliottophellia/proxylist) <br/>
-  The Ultimate Checked Proxy List - Update Every 20 Minutes
+- 📗 [***skidcore/ddos-discord***](https://github.com/skidcore/discord-bot-stresser) <br/>
+  DISCORD BOT FOR DDOS,, - Update Every 20 Minutes
 - 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
   The Ultimate Advertisement List - Update Weekly
 - 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
