@@ -32,9 +32,9 @@
   DISCORD BOT FOR DDOS,, - Update Every 20 Minutes
 - 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
   The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/ophellia***](https://github.com/elliottophellia/ophellia) <br/>
+- 📙 [***elliottophellia/ophellia***](https://github.com/skidcore) <br/>
   A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
-- 📒 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
+- 📒 [***elliottophellia/aizawa***](https://github.com/skidcore) <br/>
   Aizawa is a command-line webshell designed to execute commands through HTTP header   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
@@ -44,7 +44,7 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>
 <p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://cwa.lat"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/zx"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@zx"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/zx"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
 <img src="https://i.ibb.co.com/6Rg6rtjD/banner-elainaa.png" width="100%" align="center" />
 </div>
