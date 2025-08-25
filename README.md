@@ -30,12 +30,6 @@
   
 - 📗 [***skidcore/ddos-discord***](https://github.com/skidcore/discord-bot-stresser) <br/>
   DISCORD BOT FOR DDOS,, - Update Every 20 Minutes
-- 📘 [***elliottophellia/adlist***](https://github.com/elliottophellia/adlist) <br/>
-  The Ultimate Advertisement List - Update Weekly
-- 📙 [***elliottophellia/ophellia***](https://github.com/skidcore) <br/>
-  A cutting-edge PHP 7.4+ webshell designed for advanced penetration testing and educational exploration.
-- 📒 [***elliottophellia/aizawa***](https://github.com/skidcore) <br/>
-  Aizawa is a command-line webshell designed to execute commands through HTTP header   
 
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
